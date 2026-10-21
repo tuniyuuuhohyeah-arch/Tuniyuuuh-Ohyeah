@@ -1,0 +1,6 @@
+{
+  "name": "Human Resource Information System",
+  "description": "Secure personnel 201 records repository with Philippine Civil Service document categorization, completeness tracking, interactive previews, and Data Privacy Act (RA 10173) compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
